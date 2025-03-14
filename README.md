@@ -36,6 +36,8 @@ Sony Playstation Portable
 Sony Playstation Portable Minis
 Sony Playstattion 1
 
+<img src="https://github.com/Maik-M17/R36S-SD-Card-Theme/blob/main/preview-4.jpg">
+
 # More Screenshots
 <img src="https://github.com/Maik-M17/R36S-SD-Card-Theme/blob/main/preview-2.jpg">
 
