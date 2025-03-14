@@ -6,38 +6,40 @@
 14.03.2025 - Release Theme
 
 # Supportet Systems:
-3do
-Arcade
-Commodore 64
-Commodore 128
-Capcom Playsystem 1
-Capcom Playsystem 2
-Capcom Playsystem 3
-DOS
-Sega Dreamcast
-Sega Genesis
-Sega Mastersystem
-Sega Mega CD
-Sega Megadrive
-Sega x32
-Sega CD
-Mame
-Game & Watch
-Nintendo DS
-Nintendo 3DS
-Nintendo Famicom
-Nintendo Super Famicom
-Nintendo SNES
-Nintendo GameBoy
-Nintendo GameBoy Advance
-Nintendo GameBoy Color
-Nintendo N64
-Nintendo NES
-Nintendo Virtual Boy
-Ports
-Sony Playstation Portable
-Sony Playstation Portable Minis
-Sony Playstattion 1
+<ul>
+<li>3do</li>
+<li>Arcade</li>
+<li>Commodore 64</li>
+<li>Commodore 128</li>
+<li>Capcom Playsystem 1</li>
+<li>Capcom Playsystem 2</li>
+<li>Capcom Playsystem 3</li>
+<li>DOS</li>
+<li>Sega Dreamcast</li>
+<li>Sega Genesis</li>
+<li>Sega Mastersystem</li>
+<li>Sega Mega CD</li>
+<li>Sega Megadrive</li>
+<li>Sega x32</li>
+<li>Sega CD</li>
+<li>Mame</li>
+<li>Game & Watch</li>
+<li>Nintendo DS</li>
+<li>Nintendo 3DS</li>
+<li>Nintendo Famicom</li>
+<li>Nintendo Super Famicom</li>
+<li>Nintendo SNES</li>
+<li>Nintendo GameBoy</li>
+<li>Nintendo GameBoy Advance</li>
+<li>Nintendo GameBoy Color</li>
+<li>Nintendo N64</li>
+<li>Nintendo NES</li>
+<li>Nintendo Virtual Boy</li>
+<li>Ports</li>
+<li>Sony Playstation Portable</li>
+<li>Sony Playstation Portable Minis</li>
+<li>Sony Playstattion 1</li>
+</ul>
 
 <img src="https://github.com/Maik-M17/R36S-SD-Card-Theme/blob/main/preview-4.jpg">
 
