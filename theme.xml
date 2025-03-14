@@ -1,0 +1,180 @@
+<!--
+theme name:     SD Card Menü
+Creator:        Maik Hennicke
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <include>./_inc/menuicons.xml</include>
+    <formatVersion>7</formatVersion>
+    <feature supported="carousel">
+    <view name="system">
+
+    <image name="staticBackground">
+	<path>./_art/bg.png</path>
+	<origin>0 0</origin>
+	<pos>0 0</pos>
+	<size>1 1</size>
+    </image>
+
+      <carousel name="systemcarousel">
+        <type>wheel</type>
+        <pos>0 0</pos>
+        <size>1 1</size>
+        <logoScale>1.4</logoScale>
+        <logoSize>0.5 0.5</logoSize>
+        <color>00000000</color>
+	 <scrollSound>./_inc/move.wav</scrollSound>
+        <maxLogoCount>3</maxLogoCount>
+      </carousel>
+<!--
+If you want to use logos (png, svg or wep)
+-->
+    <image name="logo">
+	<path>./_logos/${system.theme}.png</path>
+    </image>
+
+    <text name="logoText">
+	<fontPath>./_art/font.ttf</fontPath>
+	<fontSize>0.055</fontSize>
+	<forceUppercase>true</forceUppercase>
+	<lineSpacing>0.7</lineSpacing>
+	<alignment>left</alignment>
+	<color>FFFFFF</color>
+    </text>
+    <text name="systemInfo">
+	<text> </text>
+	<pos>1 1</pos>
+	<backgroundColor>000000</backgroundColor>
+	<fontPath>./_art/font.ttf</fontPath>
+	<fontSize>0.00</fontSize>
+	<zIndex>5</zIndex>	     
+    </text> 
+    </view>
+    </feature>
+
+    <view name="system,detailed,video,basic">	
+        <helpsystem name="help">
+	<fontSize>0.000000</fontSize>
+        <fontPath>/_art/font.ttf</fontPath>
+	<pos>1 1</pos>
+	<fontSize>0.00</fontSize>
+	<alignment>center</alignment>
+        </helpsystem>
+		<text name="logoText">
+			<pos>0.5 0.060</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.775 0.075</size>
+			<fontSize>0.055</fontSize>
+			<fontPath>./_art/font.ttf</fontPath>
+			<color>3C78BC</color>
+			<alignment>center</alignment>
+		</text>
+    </view>  
+   
+    <view name="basic">
+    <text name="description" extra="true">
+	<pos>0.615 0.685</pos>
+	<size>0.347 0.183</size>
+	<alignment>center</alignment>
+	<color>B2272D</color>
+	<fontSize>0.025</fontSize>
+	<text> </text>
+	<fontPath>./_art/font.ttf</fontPath>
+    </text>
+    </view>
+  
+    <view name="basic, detailed, video">
+    <image name="background" extra="true">
+	<size>1 1</size>
+	<pos>0 0</pos>
+	<origin>0 0</origin>
+	<path>./_art/gamelist.png</path>
+	<zIndex>0</zIndex>
+	<color>ffffff</color>
+    </image>
+
+    <textlist name="gamelist">
+
+         <selectorColor>fffffF00</selectorColor>
+         <selectedColor>3C78BC</selectedColor>
+         <primaryColor>ffffff</primaryColor>
+         <secondaryColor>ffffff</secondaryColor>
+         <fontPath>./_art/font.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <pos>0.02 0.1</pos>
+         <size>0.96 0.8</size>
+         <alignment>left</alignment>
+         <horizontalMargin>0.01</horizontalMargin>
+         <origin>0 0</origin>
+         <lineSpacing>1.3</lineSpacing>
+         <selectorOffsetY>0</selectorOffsetY>
+         <selectorHeight>0.0675</selectorHeight>
+	<scrollSound>./_inc/move.wav</scrollSound>
+    </textlist>
+    <text name="system_name" extra="true">
+         <text> </text>
+         <forceUppercase>1</forceUppercase>
+         <size>0.8 0.025</size>
+         <pos>0.02 0.025</pos>
+         <color>ffffff00</color>
+         <fontPath>/_art/font.ttf</fontPath>
+         <fontSize>0.04</fontSize>
+         <zIndex>2</zIndex>
+    </text>
+	
+    <text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate">
+         <visible>false</visible>
+    </text>
+	
+    <rating name="md_rating">
+         <visible>false</visible>
+    </rating>
+	
+    <image name="md_thumbnail">
+         <visible>false</visible>
+    </image>
+	
+
+    </view>
+<!--
+Background of Ark menü
+-->
+    <view name="menu">
+    <menuBackground name="menubg">
+	<path>./_art/menü.png</path>
+    </menuBackground>
+
+	
+    <menuText name="menutext, menutitle">
+	<fontPath>./_art/font.ttf</fontPath>
+	<fontSize>.03</fontSize>
+	<color>ffffff</color>
+    </menuText>
+	
+	<menuText name="menufooter, menutextsmall">
+	<text>Test</text>
+	<fontPath>./_art/font.ttf</fontPath>
+	<fontSize>.029</fontSize>		 
+	<color>FFFFFF00</color>
+    </menuText>
+	</view>
+  
+  	<view name="screen">
+         <text name="clock">
+	     <color>3C78BC</color>
+	     <fontPath>./font.ttf</fontPath>
+         <fontSize>0.04</fontSize>
+         <pos>0.48 0.0</pos>
+         <size>0.5 0.058</size>
+    </text>
+    </view>
+<!--
+Color of battery
+-->
+   <view name="screen">
+	<batteryIndicator name="batteryIndicator">
+	<color>3C78BC</color>
+    </batteryIndicator>
+</view>
+</theme>
