@@ -16,6 +16,7 @@
 <li>Atari Jaguar</li>
 <li>Commodore 64</li>
 <li>Commodore 128</li>
+<li>colecovision</li>
 <li>Capcom Playsystem 1</li>
 <li>Capcom Playsystem 2</li>
 <li>Capcom Playsystem 3</li>
@@ -29,16 +30,17 @@
 <li>Sega CD</li>
 <li>Mame</li>
 <li>Game & Watch</li>
+<li>Naomi</li>
 <li>Nintendo DS</li>
 <li>Nintendo 3DS</li>
 <li>Nintendo Famicom</li>
 <li>Nintendo Super Famicom</li>
 <li>Nintendo SNES</li>
-<li>Nintendo GameBoy</li>
-<li>Nintendo GameBoy Advance</li>
+<li>Nintendo GameBoy + Hacks</li>
+<li>Nintendo GameBoy Advance + Hacks</li>
 <li>Nintendo GameBoy Color</li>
 <li>Nintendo N64</li>
-<li>Nintendo NES</li>
+<li>Nintendo NES + Hacks</li>
 <li>Nintendo Virtual Boy</li>
 <li>Ports</li>
 <li>Sony Playstation Portable</li>
