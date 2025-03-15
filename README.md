@@ -4,7 +4,7 @@
 
 # Updates:
 <ul>
-<li>15.03.2025 - Add custom collections, Doom and Pokemon</li>
+<li>15.03.2025 - Add custom collections, doom, pokemon and 2 systems</li>
 <li>14.03.2025 - Release Theme</li>
 </ul>
 
@@ -12,6 +12,8 @@
 <ul>
 <li>3do</li>
 <li>Arcade</li>
+<li>Atari Lynx</li>
+<li>Atari Jaguar</li>
 <li>Commodore 64</li>
 <li>Commodore 128</li>
 <li>Capcom Playsystem 1</li>
