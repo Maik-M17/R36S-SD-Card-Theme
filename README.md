@@ -6,7 +6,7 @@
 <ul>
 <li>15.03.2025 - Add custom collections, Doom and Pokemon</li>
 <li>14.03.2025 - Release Theme</li>
-
+</ul>
 # Supportet Systems:
 <ul>
 <li>3do</li>
