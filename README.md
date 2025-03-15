@@ -16,7 +16,7 @@
 <li>Atari Jaguar</li>
 <li>Commodore 64</li>
 <li>Commodore 128</li>
-<li>colecovision</li>
+<li>Colecovision</li>
 <li>Capcom Playsystem 1</li>
 <li>Capcom Playsystem 2</li>
 <li>Capcom Playsystem 3</li>
