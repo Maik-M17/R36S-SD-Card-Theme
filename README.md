@@ -3,7 +3,9 @@
 <img src="https://github.com/Maik-M17/R36S-SD-Card-Theme/blob/main/preview-1.jpg">
 
 # Updates:
-14.03.2025 - Release Theme
+<ul>
+<li>15.03.2025 - Add custom collections, Doom and Pokemon</li>
+<li>14.03.2025 - Release Theme</li>
 
 # Supportet Systems:
 <ul>
