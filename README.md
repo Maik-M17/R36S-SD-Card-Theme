@@ -4,7 +4,7 @@
 
 # Updates:
 <ul>
-<li>16.03.2025 - Add 6 systems</li>
+<li>16.03.2025 - Add 6 systems and one bootlogo (for Boot)</li>
 <li>15.03.2025 - Add custom collections, doom, pokemon and 7 systems</li>
 <li>14.03.2025 - Release Theme</li> 
 </ul>
