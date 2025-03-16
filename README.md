@@ -16,7 +16,7 @@
 <li>Atari Lynx</li>
 <li>Atari Jaguar</li>
 <li>Atari 800</li>
-<li>Atari 2600r</li>
+<li>Atari 2600</li>
 <li>Atari 5200</li>
 <li>Atari 7800r</li>
 <li>Commodore 64</li>
